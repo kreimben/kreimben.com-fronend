@@ -1,0 +1,22 @@
+Info 0    [04:07:09.950] Starting TS Server
+Info 1    [04:07:09.950] Version: 4.5.5
+Info 2    [04:07:09.950] Arguments: /usr/bin/node /home/kreimben/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /home/kreimben/Documents/Repository/Kreimben.com/frontend/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/aaa8edeb9e00a354a4758db096c7f94d/tscancellation*
+Info 3    [04:07:09.950] Platform: linux NodeVersion: 17 CaseSensitive: true
+Info 4    [04:07:09.950] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [04:07:09.958] Format host information updated
+Info 6    [04:07:10.013] Search path: /home/kreimben/Documents/Repository/Kreimben.com/frontend/src
+Info 7    [04:07:10.013] For info: /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/main.js :: No config files found.
+Info 8    [04:07:10.016] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [04:07:10.452] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 436.4618359999731ms
+Info 10   [04:07:10.452] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [04:07:10.452] 	Files (19)
+
+Info 12   [04:07:10.452] -----------------------------------------------
+Info 13   [04:07:27.334] Search path: /home/kreimben/Documents/Repository/Kreimben.com/frontend
+Info 14   [04:07:27.334] For info: /home/kreimben/Documents/Repository/Kreimben.com/frontend/snel.config.js :: No config files found.
+Info 15   [04:07:27.334] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 16   [04:07:27.343] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 8.88393499981612ms
+Info 17   [04:07:27.343] Project '/dev/null/inferredProject2*' (Inferred)
+Info 18   [04:07:27.343] 	Files (19)
+
+Info 19   [04:07:27.343] -----------------------------------------------
