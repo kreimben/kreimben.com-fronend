@@ -1,32 +1,32 @@
 <script lang="ts">
- import { onMount } from '*.svelte';
+ import { onMount } from 'svelte';
 
  let json;
 
- /*onMount(async () => {
-   const res = await fetch(`https://api.kreimben.com/get_photos`);
-   json = await res.json();
- });*/
-
+ onMount(async () => {
+     const res = await fetch(`http://localhost:8080/api/`);
+     json = await res.json();
+     console.log('result: ' + json);
+ });
 </script>
 
 <div>
 
-  {#each json as data}
-    <div>
-      {data}
-    </div>
-  {:else}
-    <div class='nothing'>
-      Nothing!
-    </div>
-  {/each}
+    {#if json}
+        <div>
+            {json}
+        </div>
+    {:else}
+        <div class='nothing'>
+            Nothing!
+        </div>
+    {/if}
 
 </div>
 
 
 <style>
  .nothing {
-   background: red;
+     font-size: 3rem;
  }
 </style>
