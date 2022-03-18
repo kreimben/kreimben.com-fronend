@@ -4,8 +4,8 @@
  let json;
 
  onMount(async () => {
-     const res = await fetch(`http://localhost:8080/api/`);
-     json = await res.json();
+     //const res = await fetch(`http://localhost:8080/api/`);
+     //json = await res.json();
      console.log('result: ' + json);
  });
 </script>
@@ -18,7 +18,7 @@
         </div>
     {:else}
         <div class='nothing'>
-            Nothing!
+            Nothing to display!
         </div>
     {/if}
 
@@ -28,5 +28,7 @@
 <style>
  .nothing {
      font-size: 3rem;
+     text-align: center;
+     margin-top: 20%;
  }
 </style>

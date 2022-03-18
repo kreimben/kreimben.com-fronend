@@ -2019,3 +2019,6 @@ Info 2011 [06:13:01.085] getCompletionsAtPosition: getCompletionEntriesFromSymbo
 Info 2012 [06:13:01.401] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
 Info 2013 [06:13:01.419] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 210 structureChanged: false structureIsReused:: Completely Elapsed: 18.26508499868214ms
 Info 2014 [06:13:01.419] Different program with same set of files
+Info 2015 [06:28:41.526] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 2016 [06:28:41.554] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 151 structureChanged: false structureIsReused:: Completely Elapsed: 27.99838799983263ms
+Info 2017 [06:28:41.554] Different program with same set of files

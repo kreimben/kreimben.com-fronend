@@ -4,10 +4,10 @@
 </script>
 
 <svelte:head>
-	<title>Kremben.com</title>
+    <title>Kremben.com</title>
 </svelte:head>
 
 <div>
-	<Menu />
-	<Home />
+    <Menu />
+    <Home />
 </div>
