@@ -2,6 +2,7 @@
  import { onMount } from 'svelte';
 
  import Menu from '../components/Menu.svelte';
+ import Card from '../components/Card.svelte';
 
  let json;
  let success;
@@ -12,7 +13,7 @@
      const json = await res.json();
 
      success = json["success"];
-     //urls = json["url"];
+     urls = json["url"];
  });
 </script>
 
@@ -20,15 +21,18 @@
     <title>Kremben.com</title>
 </svelte:head>
 
+
 <header>
     <Menu />
 </header>
 
 <main>
-    {#each urls as url}
-        <!--
-        <img alt={url} src={url} />
-        -->
+    {#if urls.length !== 0}
+        <div class="base grid gap-4 lg:grid-cols-3 xl:grid-cols-4 md:grid-cols-3 grid-cols-1 grid-glow-col">
+            {#each urls as url}
+                <Card url={url} />
+            {/each}
+        </div>
     {:else}
         <div class='nothing'>
             Nothing to display :(
@@ -37,10 +41,25 @@
         <div class="nothing_subscribe">
             Sorry, I'll get back soon!
         </div>
-    {/each}
+    {/if}
 
 </main>
 
+<footer>
+    <div style="text-align: center; margin-bottom: 2em;">
+        <div style="font-size: 1.2rem;">
+            Copyright 2020-2022 Aksidion Kreimben
+        </div>
+        <div style="font-size: 1em;">
+            All rights reserved.
+        </div>
+        <div>
+            <a href="mailto:aksidion@kreimben.com">
+                aksidion@kreimben.com
+            </a>
+        </div>
+    </div>
+</footer>
 
 <style>
  .nothing {
@@ -53,5 +72,10 @@
      margin-top: 1%;
      font-size: 1.2rem;
      text-align: center;
+ }
+
+ .base {
+     margin-top: 64px;
+     margin: 2% 2%;
  }
 </style>

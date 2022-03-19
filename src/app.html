@@ -8,9 +8,19 @@
 		%svelte.head%
 		<script src="https://cdn.tailwindcss.com"></script>
 
-		<link rel='stylesheet' type='text/css' href='style.css'>
+		<link rel='stylesheet' type='text/css' href='/static/style.css'>
 	</head>
 	<body>
+
+		<!-- SVG Animation Background -->
+		<div class="bg"></div>
+
+		<div class="star-field">
+			<div class="layer"></div>
+			<div class="layer"></div>
+			<div class="layer"></div>
+		</div>
+
 		<div>%svelte.body%</div>
 	</body>
 </html>
