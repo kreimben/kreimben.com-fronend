@@ -14,15 +14,15 @@
              </a>
         -->
 
-        <a href='https://www.instagram.com/kreimben' class='main_menu_element'>
+        <a href='https://www.instagram.com/kreimben' target="_blank" class='main_menu_element'>
             Instagram
         </a>
 
-        <a href='https://github.com/kreimben' class="main_menu_element">
+        <a href='https://github.com/kreimben' target="_blank" class="main_menu_element">
             Github
         </a>
 
-        <a href='https://paypal.me/kreimben' class='main_menu_element'>
+        <a href='https://paypal.me/kreimben' target="_blank" class='main_menu_element'>
             Paypal
         </a>
     </div>
