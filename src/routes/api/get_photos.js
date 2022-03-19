@@ -9,5 +9,8 @@ export async function get() {
 
   list.forEach((file_name) => {url.push(`https://api.kreimben.com/get_photo/${file_name}`)});
 
-  return { body: url};
+  return { body: {
+    "success": true,
+    "url": url
+  }};
 }
