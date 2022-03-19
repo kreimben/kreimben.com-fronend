@@ -5,11 +5,14 @@
 
  let json;
  let success;
+ let urls = [];
 
  onMount(async () => {
-     const json= await fetch(`http://localhost:3000/api/get_photos`);
+     const res = await fetch(`http://localhost:3000/api/get_photos`);
+     const json = await res.json();
+
      success = json["success"];
-     console.log('result: ' + JSON.stringify(json));
+     //urls = json["url"];
  });
 </script>
 
@@ -22,18 +25,10 @@
 </header>
 
 <main>
-    {#if success === true}
-        <div>
-            {JSON.stringify(json)}
-        </div>
-        <br />
-        <div>
-            {JSON.stringify(json["success"])}
-        </div>
-        <br />
-        <div>
-            {json["success"]}
-        </div>
+    {#each urls as url}
+        <!--
+        <img alt={url} src={url} />
+        -->
     {:else}
         <div class='nothing'>
             Nothing to display :(
@@ -42,7 +37,7 @@
         <div class="nothing_subscribe">
             Sorry, I'll get back soon!
         </div>
-    {/if}
+    {/each}
 
 </main>
 

@@ -4491,3 +4491,1208 @@ Info 2336 [14:25:14.517] Different program with same set of files
 Info 2337 [14:25:19.588] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
 Info 2338 [14:25:19.609] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 468 structureChanged: false structureIsReused:: Completely Elapsed: 21.001633999869227ms
 Info 2339 [14:25:19.609] Different program with same set of files
+Info 2340 [14:28:24.678] Search path: /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api
+Info 2341 [14:28:24.678] For info: /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js :: Config file name: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2342 [14:28:24.679] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2343 [14:28:24.702] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 469 structureChanged: false structureIsReused:: Completely Elapsed: 23.865973999723792ms
+Info 2344 [14:28:24.702] Different program with same set of files
+Info 2345 [14:28:34.330] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2346 [14:28:34.355] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 470 structureChanged: false structureIsReused:: Completely Elapsed: 25.140304001048207ms
+Info 2347 [14:28:34.356] Different program with same set of files
+Info 2348 [14:28:34.373] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2349 [14:28:34.392] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 471 structureChanged: false structureIsReused:: Completely Elapsed: 18.827359000220895ms
+Info 2350 [14:28:34.392] Different program with same set of files
+Info 2351 [14:28:34.897] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2352 [14:28:34.915] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 472 structureChanged: false structureIsReused:: Completely Elapsed: 17.849847000092268ms
+Info 2353 [14:28:34.915] Different program with same set of files
+Info 2354 [14:28:35.004] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2355 [14:28:35.023] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 473 structureChanged: false structureIsReused:: Completely Elapsed: 18.9094839990139ms
+Info 2356 [14:28:35.023] Different program with same set of files
+Info 2357 [14:28:35.195] getCompletionData: Get current token: 0.005090000107884407
+Info 2358 [14:28:35.195] getCompletionData: Is inside comment: 0.01666099950671196
+Info 2359 [14:28:35.196] getCompletionData: Get previous token: 0.02382500097155571
+Info 2360 [14:28:35.196] getCompletionsAtPosition: isCompletionListBlocker: 0.22552499920129776
+Info 2361 [14:28:35.199] getExportInfoMap: cache miss or empty; calculating new results
+Info 2362 [14:28:35.218] getExportInfoMap: done in 18.688626999035478 ms
+Info 2363 [14:28:35.236] collectAutoImports: resolved 0 module specifiers, plus 27 ambient and 575 from cache
+Info 2364 [14:28:35.236] collectAutoImports: response is complete
+Info 2365 [14:28:35.236] collectAutoImports: 17.91254499927163
+Info 2366 [14:28:35.236] getCompletionData: Semantic work: 40.06247499957681
+Info 2367 [14:28:35.240] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.391645999625325
+Info 2368 [14:28:36.186] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2369 [14:28:36.205] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 474 structureChanged: false structureIsReused:: Completely Elapsed: 19.45069400034845ms
+Info 2370 [14:28:36.205] Different program with same set of files
+Info 2371 [14:28:36.313] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2372 [14:28:36.331] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 475 structureChanged: false structureIsReused:: Completely Elapsed: 17.23674200102687ms
+Info 2373 [14:28:36.331] Different program with same set of files
+Info 2374 [14:28:37.392] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2375 [14:28:37.410] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 476 structureChanged: false structureIsReused:: Completely Elapsed: 17.821845000609756ms
+Info 2376 [14:28:37.410] Different program with same set of files
+Info 2377 [14:28:37.452] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2378 [14:28:37.468] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 477 structureChanged: false structureIsReused:: Completely Elapsed: 16.19693199917674ms
+Info 2379 [14:28:37.468] Different program with same set of files
+Info 2380 [14:28:37.537] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2381 [14:28:37.552] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 478 structureChanged: false structureIsReused:: Completely Elapsed: 14.69637400098145ms
+Info 2382 [14:28:37.552] Different program with same set of files
+Info 2383 [14:28:37.730] getCompletionData: Get current token: 0.0046890005469322205
+Info 2384 [14:28:37.730] getCompletionData: Is inside comment: 0.002755001187324524
+Info 2385 [14:28:37.730] getCompletionData: Get previous token: 0.05582599900662899
+Info 2386 [14:28:37.730] getCompletionsAtPosition: isCompletionListBlocker: 0.05115700140595436
+Info 2387 [14:28:37.734] getExportInfoMap: cache hit
+Info 2388 [14:28:37.741] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 0 from cache
+Info 2389 [14:28:37.741] collectAutoImports: response is complete
+Info 2390 [14:28:37.741] collectAutoImports: 7.27645100094378
+Info 2391 [14:28:37.741] getCompletionData: Semantic work: 11.098874999210238
+Info 2392 [14:28:37.746] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.9099230002611876
+Info 2393 [14:28:38.302] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2394 [14:28:38.320] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 479 structureChanged: false structureIsReused:: Completely Elapsed: 18.185139000415802ms
+Info 2395 [14:28:38.320] Different program with same set of files
+Info 2396 [14:28:38.341] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2397 [14:28:38.357] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 480 structureChanged: false structureIsReused:: Completely Elapsed: 15.869324998930097ms
+Info 2398 [14:28:38.357] Different program with same set of files
+Info 2399 [14:28:38.542] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0421300008893013
+Info 2400 [14:28:38.790] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2401 [14:28:38.808] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 481 structureChanged: false structureIsReused:: Completely Elapsed: 18.699457999318838ms
+Info 2402 [14:28:38.809] Different program with same set of files
+Info 2403 [14:28:38.809] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.042139001190662384
+Info 2404 [14:28:38.888] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2405 [14:28:38.905] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 482 structureChanged: false structureIsReused:: Completely Elapsed: 16.789738999679685ms
+Info 2406 [14:28:38.905] Different program with same set of files
+Info 2407 [14:28:38.966] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2408 [14:28:38.987] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 483 structureChanged: false structureIsReused:: Completely Elapsed: 20.96901400014758ms
+Info 2409 [14:28:38.987] Different program with same set of files
+Info 2410 [14:28:39.112] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2411 [14:28:39.133] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 484 structureChanged: false structureIsReused:: Completely Elapsed: 20.88392399996519ms
+Info 2412 [14:28:39.133] Different program with same set of files
+Info 2413 [14:28:39.311] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2414 [14:28:39.332] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 485 structureChanged: false structureIsReused:: Completely Elapsed: 20.966310000047088ms
+Info 2415 [14:28:39.332] Different program with same set of files
+Info 2416 [14:28:39.417] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2417 [14:28:39.443] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 486 structureChanged: false structureIsReused:: Completely Elapsed: 26.135340999811888ms
+Info 2418 [14:28:39.443] Different program with same set of files
+Info 2419 [14:28:39.597] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2420 [14:28:39.623] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 487 structureChanged: false structureIsReused:: Completely Elapsed: 26.74839700013399ms
+Info 2421 [14:28:39.623] Different program with same set of files
+Info 2422 [14:28:40.338] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2423 [14:28:40.355] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 488 structureChanged: false structureIsReused:: Completely Elapsed: 17.496541000902653ms
+Info 2424 [14:28:40.356] Different program with same set of files
+Info 2425 [14:28:40.531] getCompletionData: Get current token: 0.005370000377297401
+Info 2426 [14:28:40.531] getCompletionData: Is inside comment: 0.0024049989879131317
+Info 2427 [14:28:40.531] getCompletionData: Get previous token: 0.019356999546289444
+Info 2428 [14:28:40.531] getCompletionsAtPosition: isCompletionListBlocker: 0.026759998872876167
+Info 2429 [14:28:40.534] getExportInfoMap: cache hit
+Info 2430 [14:28:40.561] collectAutoImports: resolved 0 module specifiers, plus 27 ambient and 575 from cache
+Info 2431 [14:28:40.561] collectAutoImports: response is complete
+Info 2432 [14:28:40.561] collectAutoImports: 26.703611999750137
+Info 2433 [14:28:40.561] getCompletionData: Semantic work: 29.520360998809338
+Info 2434 [14:28:40.567] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.289051000028849
+Info 2435 [14:28:40.861] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2436 [14:28:40.878] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 489 structureChanged: false structureIsReused:: Completely Elapsed: 17.744829000905156ms
+Info 2437 [14:28:40.878] Different program with same set of files
+Info 2438 [14:28:42.386] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2439 [14:28:42.406] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 490 structureChanged: false structureIsReused:: Completely Elapsed: 20.48451199941337ms
+Info 2440 [14:28:42.406] Different program with same set of files
+Info 2441 [14:28:42.564] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2442 [14:28:42.583] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 491 structureChanged: false structureIsReused:: Completely Elapsed: 18.643782999366522ms
+Info 2443 [14:28:42.583] Different program with same set of files
+Info 2444 [14:28:42.746] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2445 [14:28:42.762] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 492 structureChanged: false structureIsReused:: Completely Elapsed: 16.58900099992752ms
+Info 2446 [14:28:42.762] Different program with same set of files
+Info 2447 [14:28:43.093] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2448 [14:28:43.111] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 493 structureChanged: false structureIsReused:: Completely Elapsed: 18.027302000671625ms
+Info 2449 [14:28:43.111] Different program with same set of files
+Info 2450 [14:28:43.210] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2451 [14:28:43.226] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 494 structureChanged: false structureIsReused:: Completely Elapsed: 16.554464999586344ms
+Info 2452 [14:28:43.226] Different program with same set of files
+Info 2453 [14:28:43.646] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2454 [14:28:43.666] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 495 structureChanged: false structureIsReused:: Completely Elapsed: 20.0543920006603ms
+Info 2455 [14:28:43.666] Different program with same set of files
+Info 2456 [14:28:43.765] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2457 [14:28:43.782] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 496 structureChanged: false structureIsReused:: Completely Elapsed: 16.830134999006987ms
+Info 2458 [14:28:43.782] Different program with same set of files
+Info 2459 [14:28:44.034] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2460 [14:28:44.051] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 497 structureChanged: false structureIsReused:: Completely Elapsed: 16.39454500004649ms
+Info 2461 [14:28:44.051] Different program with same set of files
+Info 2462 [14:28:44.169] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2463 [14:28:44.187] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 498 structureChanged: false structureIsReused:: Completely Elapsed: 17.73650399968028ms
+Info 2464 [14:28:44.187] Different program with same set of files
+Info 2465 [14:28:44.443] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2466 [14:28:44.460] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 499 structureChanged: false structureIsReused:: Completely Elapsed: 17.73217500001192ms
+Info 2467 [14:28:44.460] Different program with same set of files
+Info 2468 [14:28:44.500] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2469 [14:28:44.517] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 500 structureChanged: false structureIsReused:: Completely Elapsed: 17.020105000585318ms
+Info 2470 [14:28:44.517] Different program with same set of files
+Info 2471 [14:28:44.602] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2472 [14:28:44.620] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 501 structureChanged: false structureIsReused:: Completely Elapsed: 17.640321999788284ms
+Info 2473 [14:28:44.620] Different program with same set of files
+Info 2474 [14:28:44.681] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2475 [14:28:44.700] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 502 structureChanged: false structureIsReused:: Completely Elapsed: 18.806870000436902ms
+Info 2476 [14:28:44.700] Different program with same set of files
+Info 2477 [14:28:44.861] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2478 [14:28:44.880] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 503 structureChanged: false structureIsReused:: Completely Elapsed: 19.111945001408458ms
+Info 2479 [14:28:44.880] Different program with same set of files
+Info 2480 [14:28:45.050] getCompletionData: Get current token: 0.00783500075340271
+Info 2481 [14:28:45.050] getCompletionData: Is inside comment: 0.0024139992892742157
+Info 2482 [14:28:45.050] getCompletionData: Get previous token: 0.031169001013040543
+Info 2483 [14:28:45.050] getCompletionsAtPosition: isCompletionListBlocker: 0.016742000356316566
+Info 2484 [14:28:45.054] getExportInfoMap: cache hit
+Info 2485 [14:28:45.080] collectAutoImports: resolved 0 module specifiers, plus 27 ambient and 575 from cache
+Info 2486 [14:28:45.080] collectAutoImports: response is complete
+Info 2487 [14:28:45.080] collectAutoImports: 25.937987999990582
+Info 2488 [14:28:45.080] getCompletionData: Semantic work: 29.44101000018418
+Info 2489 [14:28:45.087] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.818890001624823
+Info 2490 [14:28:45.486] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2491 [14:28:45.505] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 504 structureChanged: false structureIsReused:: Completely Elapsed: 18.665825000032783ms
+Info 2492 [14:28:45.505] Different program with same set of files
+Info 2493 [14:28:45.506] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2494 [14:28:45.523] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 505 structureChanged: false structureIsReused:: Completely Elapsed: 17.15221199952066ms
+Info 2495 [14:28:45.523] Different program with same set of files
+Info 2496 [14:28:45.682] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2497 [14:28:45.701] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 506 structureChanged: false structureIsReused:: Completely Elapsed: 18.564174000173807ms
+Info 2498 [14:28:45.701] Different program with same set of files
+Info 2499 [14:28:46.934] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2500 [14:28:46.951] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 507 structureChanged: false structureIsReused:: Completely Elapsed: 16.8318189997226ms
+Info 2501 [14:28:46.951] Different program with same set of files
+Info 2502 [14:28:47.320] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2503 [14:28:47.338] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 508 structureChanged: false structureIsReused:: Completely Elapsed: 18.649212999269366ms
+Info 2504 [14:28:47.338] Different program with same set of files
+Info 2505 [14:28:47.378] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2506 [14:28:47.395] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 509 structureChanged: false structureIsReused:: Completely Elapsed: 16.789479000493884ms
+Info 2507 [14:28:47.395] Different program with same set of files
+Info 2508 [14:28:47.529] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2509 [14:28:47.547] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 510 structureChanged: false structureIsReused:: Completely Elapsed: 17.84047899954021ms
+Info 2510 [14:28:47.547] Different program with same set of files
+Info 2511 [14:28:47.603] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2512 [14:28:47.621] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 511 structureChanged: false structureIsReused:: Completely Elapsed: 17.999729000031948ms
+Info 2513 [14:28:47.621] Different program with same set of files
+Info 2514 [14:28:47.711] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2515 [14:28:47.727] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 512 structureChanged: false structureIsReused:: Completely Elapsed: 16.46846400015056ms
+Info 2516 [14:28:47.727] Different program with same set of files
+Info 2517 [14:28:47.784] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2518 [14:28:47.802] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 513 structureChanged: false structureIsReused:: Completely Elapsed: 17.88857899978757ms
+Info 2519 [14:28:47.802] Different program with same set of files
+Info 2520 [14:28:47.975] getCompletionData: Get current token: 0.005240000784397125
+Info 2521 [14:28:47.975] getCompletionData: Is inside comment: 0.01350499875843525
+Info 2522 [14:28:47.975] getCompletionData: Get previous token: 0.018845001235604286
+Info 2523 [14:28:47.975] getCompletionsAtPosition: isCompletionListBlocker: 0.01667100004851818
+Info 2524 [14:28:47.978] getExportInfoMap: cache hit
+Info 2525 [14:28:48.000] collectAutoImports: resolved 0 module specifiers, plus 27 ambient and 575 from cache
+Info 2526 [14:28:48.001] collectAutoImports: response is complete
+Info 2527 [14:28:48.001] collectAutoImports: 22.419008001685143
+Info 2528 [14:28:48.001] getCompletionData: Semantic work: 25.23637699894607
+Info 2529 [14:28:48.005] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.781539000570774
+Info 2530 [14:28:48.984] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2531 [14:28:49.001] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 514 structureChanged: false structureIsReused:: Completely Elapsed: 17.078302999958396ms
+Info 2532 [14:28:49.001] Different program with same set of files
+Info 2533 [14:28:49.406] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2534 [14:28:49.426] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 515 structureChanged: false structureIsReused:: Completely Elapsed: 19.50952399894595ms
+Info 2535 [14:28:49.426] Different program with same set of files
+Info 2536 [14:28:49.507] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2537 [14:28:49.526] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 516 structureChanged: false structureIsReused:: Completely Elapsed: 18.967613998800516ms
+Info 2538 [14:28:49.526] Different program with same set of files
+Info 2539 [14:28:49.599] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2540 [14:28:49.619] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 517 structureChanged: false structureIsReused:: Completely Elapsed: 19.86884200014174ms
+Info 2541 [14:28:49.619] Different program with same set of files
+Info 2542 [14:28:49.657] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2543 [14:28:49.674] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 518 structureChanged: false structureIsReused:: Completely Elapsed: 16.762799000367522ms
+Info 2544 [14:28:49.674] Different program with same set of files
+Info 2545 [14:28:49.850] getCompletionData: Get current token: 0.006532000377774239
+Info 2546 [14:28:49.850] getCompletionData: Is inside comment: 0.00220399908721447
+Info 2547 [14:28:49.850] getCompletionData: Get previous token: 0.06116600148379803
+Info 2548 [14:28:49.850] getCompletionsAtPosition: isCompletionListBlocker: 0.008024999871850014
+Info 2549 [14:28:49.853] getCompletionData: Semantic work: 2.3350600004196167
+Info 2550 [14:28:49.857] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 3.9656019993126392
+Info 2551 [14:28:52.738] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2552 [14:28:52.757] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 519 structureChanged: false structureIsReused:: Completely Elapsed: 18.21195000037551ms
+Info 2553 [14:28:52.757] Different program with same set of files
+Info 2554 [14:28:53.217] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2555 [14:28:53.235] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 520 structureChanged: false structureIsReused:: Completely Elapsed: 17.92358599975705ms
+Info 2556 [14:28:53.235] Different program with same set of files
+Info 2557 [14:28:53.963] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2558 [14:28:53.980] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 521 structureChanged: false structureIsReused:: Completely Elapsed: 16.858980000019073ms
+Info 2559 [14:28:53.980] Different program with same set of files
+Info 2560 [14:28:56.322] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2561 [14:28:56.341] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 522 structureChanged: false structureIsReused:: Completely Elapsed: 19.290392000228167ms
+Info 2562 [14:28:56.341] Different program with same set of files
+Info 2563 [14:28:56.409] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2564 [14:28:56.428] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 523 structureChanged: false structureIsReused:: Completely Elapsed: 18.963635999709368ms
+Info 2565 [14:28:56.428] Different program with same set of files
+Info 2566 [14:28:56.504] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2567 [14:28:56.525] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 524 structureChanged: false structureIsReused:: Completely Elapsed: 21.77969199977815ms
+Info 2568 [14:28:56.525] Different program with same set of files
+Info 2569 [14:28:56.633] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2570 [14:28:56.656] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 525 structureChanged: false structureIsReused:: Completely Elapsed: 23.159043001011014ms
+Info 2571 [14:28:56.656] Different program with same set of files
+Info 2572 [14:28:56.825] getCompletionData: Get current token: 0.005640998482704163
+Info 2573 [14:28:56.825] getCompletionData: Is inside comment: 0.0019840002059936523
+Info 2574 [14:28:56.825] getCompletionData: Get previous token: 0.029055001214146614
+Info 2575 [14:28:56.825] getCompletionsAtPosition: isCompletionListBlocker: 0.005489999428391457
+Info 2576 [14:28:56.828] getCompletionData: Semantic work: 2.444015000015497
+Info 2577 [14:28:56.832] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.145562000572681
+Info 2578 [14:28:56.835] getCompletionData: Get current token: 0.008024999871850014
+Info 2579 [14:28:56.835] getCompletionData: Is inside comment: 0.002724999561905861
+Info 2580 [14:28:56.835] getCompletionData: Get previous token: 0.03380400128662586
+Info 2581 [14:28:56.835] getCompletionsAtPosition: isCompletionListBlocker: 0.004197999835014343
+Info 2582 [14:28:56.837] getCompletionData: Semantic work: 1.683202000334859
+Info 2583 [14:28:56.840] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 3.1699339989572763
+Info 2584 [14:28:56.842] getCompletionData: Get current token: 0.006060998886823654
+Info 2585 [14:28:56.842] getCompletionData: Is inside comment: 0.0015629995614290237
+Info 2586 [14:28:56.842] getCompletionData: Get previous token: 0.026340000331401825
+Info 2587 [14:28:56.842] getCompletionsAtPosition: isCompletionListBlocker: 0.0031960010528564453
+Info 2588 [14:28:56.844] getCompletionData: Semantic work: 1.7807960007339716
+Info 2589 [14:28:56.847] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 3.127224000170827
+Info 2590 [14:28:56.849] getCompletionData: Get current token: 0.005550000816583633
+Info 2591 [14:28:56.849] getCompletionData: Is inside comment: 0.0016029998660087585
+Info 2592 [14:28:56.849] getCompletionData: Get previous token: 0.023964999243617058
+Info 2593 [14:28:56.849] getCompletionsAtPosition: isCompletionListBlocker: 0.0032759997993707657
+Info 2594 [14:28:56.850] getCompletionData: Semantic work: 1.3576589990407228
+Info 2595 [14:28:56.855] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.829730000346899
+Info 2596 [14:28:56.877] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2597 [14:28:56.895] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 526 structureChanged: false structureIsReused:: Completely Elapsed: 17.910421999171376ms
+Info 2598 [14:28:56.895] Different program with same set of files
+Info 2599 [14:28:56.990] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2600 [14:28:57.008] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 527 structureChanged: false structureIsReused:: Completely Elapsed: 18.301777999848127ms
+Info 2601 [14:28:57.008] Different program with same set of files
+Info 2602 [14:28:57.173] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2603 [14:28:57.190] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 528 structureChanged: false structureIsReused:: Completely Elapsed: 17.748367000371218ms
+Info 2604 [14:28:57.191] Different program with same set of files
+Info 2605 [14:28:57.365] getCompletionData: Get current token: 0.007433999329805374
+Info 2606 [14:28:57.365] getCompletionData: Is inside comment: 0.0023149996995925903
+Info 2607 [14:28:57.365] getCompletionData: Get previous token: 0.03975499980151653
+Info 2608 [14:28:57.365] getCompletionsAtPosition: isCompletionListBlocker: 0.005279999226331711
+Info 2609 [14:28:57.367] getCompletionData: Semantic work: 1.7165049985051155
+Info 2610 [14:28:57.371] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.266390001401305
+Info 2611 [14:28:57.758] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2612 [14:28:57.779] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 529 structureChanged: false structureIsReused:: Completely Elapsed: 20.33724399842322ms
+Info 2613 [14:28:57.779] Different program with same set of files
+Info 2614 [14:28:57.864] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2615 [14:28:57.879] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 530 structureChanged: false structureIsReused:: Completely Elapsed: 14.399384999647737ms
+Info 2616 [14:28:57.879] Different program with same set of files
+Info 2617 [14:28:58.005] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2618 [14:28:58.019] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 531 structureChanged: false structureIsReused:: Completely Elapsed: 14.608048001304269ms
+Info 2619 [14:28:58.019] Different program with same set of files
+Info 2620 [14:28:58.142] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2621 [14:28:58.156] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 532 structureChanged: false structureIsReused:: Completely Elapsed: 14.432927999645472ms
+Info 2622 [14:28:58.156] Different program with same set of files
+Info 2623 [14:28:58.290] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2624 [14:28:58.304] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 533 structureChanged: false structureIsReused:: Completely Elapsed: 14.719206999987364ms
+Info 2625 [14:28:58.304] Different program with same set of files
+Info 2626 [14:28:58.417] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2627 [14:28:58.431] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 534 structureChanged: false structureIsReused:: Completely Elapsed: 14.33746699988842ms
+Info 2628 [14:28:58.431] Different program with same set of files
+Info 2629 [14:28:58.555] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2630 [14:28:58.577] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 535 structureChanged: false structureIsReused:: Completely Elapsed: 21.665798000991344ms
+Info 2631 [14:28:58.577] Different program with same set of files
+Info 2632 [14:28:58.830] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2633 [14:28:58.857] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 536 structureChanged: false structureIsReused:: Completely Elapsed: 26.406883001327515ms
+Info 2634 [14:28:58.857] Different program with same set of files
+Info 2635 [14:28:59.031] getCompletionData: Get current token: 0.018053999170660973
+Info 2636 [14:28:59.031] getCompletionData: Is inside comment: 0.0039879996329545975
+Info 2637 [14:28:59.031] getCompletionData: Get previous token: 0.060875000432133675
+Info 2638 [14:28:59.031] getCompletionsAtPosition: isCompletionListBlocker: 0.004999000579118729
+Info 2639 [14:28:59.031] Returning an empty list because completion was requested in an invalid position.
+Info 2640 [14:28:59.050] getCompletionData: Get current token: 0.011352000758051872
+Info 2641 [14:28:59.050] getCompletionData: Is inside comment: 0.0027949996292591095
+Info 2642 [14:28:59.050] getCompletionData: Get previous token: 0.039924999698996544
+Info 2643 [14:28:59.050] getCompletionsAtPosition: isCompletionListBlocker: 0.005059000104665756
+Info 2644 [14:28:59.050] Returning an empty list because completion was requested in an invalid position.
+Info 2645 [14:28:59.050] getCompletionData: Get current token: 0.010801000520586967
+Info 2646 [14:28:59.050] getCompletionData: Is inside comment: 0.002355000004172325
+Info 2647 [14:28:59.050] getCompletionData: Get previous token: 0.027351999655365944
+Info 2648 [14:28:59.050] getCompletionsAtPosition: isCompletionListBlocker: 0.0029960013926029205
+Info 2649 [14:28:59.050] Returning an empty list because completion was requested in an invalid position.
+Info 2650 [14:28:59.050] getCompletionData: Get current token: 0.010219000279903412
+Info 2651 [14:28:59.050] getCompletionData: Is inside comment: 0.0018130000680685043
+Info 2652 [14:28:59.050] getCompletionData: Get previous token: 0.020609000697731972
+Info 2653 [14:28:59.050] getCompletionsAtPosition: isCompletionListBlocker: 0.0024649985134601593
+Info 2654 [14:28:59.050] Returning an empty list because completion was requested in an invalid position.
+Info 2655 [14:28:59.077] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2656 [14:28:59.094] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 537 structureChanged: false structureIsReused:: Completely Elapsed: 16.737710999324918ms
+Info 2657 [14:28:59.094] Different program with same set of files
+Info 2658 [14:28:59.094] getCompletionData: Get current token: 0.008726999163627625
+Info 2659 [14:28:59.094] getCompletionData: Is inside comment: 0.0025050006806850433
+Info 2660 [14:28:59.094] getCompletionData: Get previous token: 0.023152999579906464
+Info 2661 [14:28:59.094] getCompletionsAtPosition: isCompletionListBlocker: 0.004489000886678696
+Info 2662 [14:28:59.094] Returning an empty list because completion was requested in an invalid position.
+Info 2663 [14:28:59.101] getCompletionData: Get current token: 0.006722999736666679
+Info 2664 [14:28:59.101] getCompletionData: Is inside comment: 0.0018329992890357971
+Info 2665 [14:28:59.101] getCompletionData: Get previous token: 0.014146998524665833
+Info 2666 [14:28:59.101] getCompletionsAtPosition: isCompletionListBlocker: 0.0031460002064704895
+Info 2667 [14:28:59.101] Returning an empty list because completion was requested in an invalid position.
+Info 2668 [14:28:59.101] getCompletionData: Get current token: 0.006452001631259918
+Info 2669 [14:28:59.101] getCompletionData: Is inside comment: 0.0013019982725381851
+Info 2670 [14:28:59.101] getCompletionData: Get previous token: 0.012643000110983849
+Info 2671 [14:28:59.101] getCompletionsAtPosition: isCompletionListBlocker: 0.0019540004432201385
+Info 2672 [14:28:59.101] Returning an empty list because completion was requested in an invalid position.
+Info 2673 [14:28:59.101] getCompletionData: Get current token: 0.01090100035071373
+Info 2674 [14:28:59.101] getCompletionData: Is inside comment: 0.0014929994940757751
+Info 2675 [14:28:59.101] getCompletionData: Get previous token: 0.01190199889242649
+Info 2676 [14:28:59.101] getCompletionsAtPosition: isCompletionListBlocker: 0.0018029995262622833
+Info 2677 [14:28:59.101] Returning an empty list because completion was requested in an invalid position.
+Info 2678 [14:28:59.168] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2679 [14:28:59.186] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 538 structureChanged: false structureIsReused:: Completely Elapsed: 17.917625000700355ms
+Info 2680 [14:28:59.186] Different program with same set of files
+Info 2681 [14:28:59.273] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2682 [14:28:59.289] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 539 structureChanged: false structureIsReused:: Completely Elapsed: 16.37102000042796ms
+Info 2683 [14:28:59.289] Different program with same set of files
+Info 2684 [14:28:59.442] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2685 [14:28:59.461] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 540 structureChanged: false structureIsReused:: Completely Elapsed: 18.134914001449943ms
+Info 2686 [14:28:59.461] Different program with same set of files
+Info 2687 [14:28:59.478] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2688 [14:28:59.494] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 541 structureChanged: false structureIsReused:: Completely Elapsed: 15.938595999032259ms
+Info 2689 [14:28:59.494] Different program with same set of files
+Info 2690 [14:28:59.644] getCompletionData: Get current token: 0.008605999872088432
+Info 2691 [14:28:59.644] getCompletionData: Is inside comment: 0.0031860005110502243
+Info 2692 [14:28:59.644] getCompletionData: Get previous token: 0.020047999918460846
+Info 2693 [14:28:59.644] getCompletionsAtPosition: isCompletionListBlocker: 0.005891000851988792
+Info 2694 [14:28:59.644] Returning an empty list because completion was requested in an invalid position.
+Info 2695 [14:28:59.646] getCompletionData: Get current token: 0.006141001358628273
+Info 2696 [14:28:59.646] getCompletionData: Is inside comment: 0.001862999051809311
+Info 2697 [14:28:59.646] getCompletionData: Get previous token: 0.013284999877214432
+Info 2698 [14:28:59.646] getCompletionsAtPosition: isCompletionListBlocker: 0.004208000376820564
+Info 2699 [14:28:59.646] Returning an empty list because completion was requested in an invalid position.
+Info 2700 [14:28:59.646] getCompletionData: Get current token: 0.005931001156568527
+Info 2701 [14:28:59.646] getCompletionData: Is inside comment: 0.0017229989171028137
+Info 2702 [14:28:59.646] getCompletionData: Get previous token: 0.012403998523950577
+Info 2703 [14:28:59.646] getCompletionsAtPosition: isCompletionListBlocker: 0.00237400084733963
+Info 2704 [14:28:59.646] Returning an empty list because completion was requested in an invalid position.
+Info 2705 [14:28:59.646] getCompletionData: Get current token: 0.005590999498963356
+Info 2706 [14:28:59.646] getCompletionData: Is inside comment: 0.001202000305056572
+Info 2707 [14:28:59.646] getCompletionData: Get previous token: 0.010950999334454536
+Info 2708 [14:28:59.646] getCompletionsAtPosition: isCompletionListBlocker: 0.0016530007123947144
+Info 2709 [14:28:59.646] Returning an empty list because completion was requested in an invalid position.
+Info 2710 [14:28:59.682] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2711 [14:28:59.698] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 542 structureChanged: false structureIsReused:: Completely Elapsed: 16.125737998634577ms
+Info 2712 [14:28:59.698] Different program with same set of files
+Info 2713 [14:28:59.798] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2714 [14:28:59.815] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 543 structureChanged: false structureIsReused:: Completely Elapsed: 16.78132300078869ms
+Info 2715 [14:28:59.815] Different program with same set of files
+Info 2716 [14:28:59.990] getCompletionData: Get current token: 0.008465999737381935
+Info 2717 [14:28:59.990] getCompletionData: Is inside comment: 0.003556998446583748
+Info 2718 [14:28:59.990] getCompletionData: Get previous token: 0.04065700061619282
+Info 2719 [14:28:59.990] getCompletionsAtPosition: isCompletionListBlocker: 0.005991000682115555
+Info 2720 [14:28:59.990] Returning an empty list because completion was requested in an invalid position.
+Info 2721 [14:28:59.997] getCompletionData: Get current token: 0.016811000183224678
+Info 2722 [14:28:59.997] getCompletionData: Is inside comment: 0.003426000475883484
+Info 2723 [14:28:59.997] getCompletionData: Get previous token: 0.030016999691724777
+Info 2724 [14:28:59.997] getCompletionsAtPosition: isCompletionListBlocker: 0.005800999701023102
+Info 2725 [14:28:59.997] Returning an empty list because completion was requested in an invalid position.
+Info 2726 [14:28:59.997] getCompletionData: Get current token: 0.013795999810099602
+Info 2727 [14:28:59.997] getCompletionData: Is inside comment: 0.002875998616218567
+Info 2728 [14:28:59.997] getCompletionData: Get previous token: 0.026910999789834023
+Info 2729 [14:28:59.997] getCompletionsAtPosition: isCompletionListBlocker: 0.0034569986164569855
+Info 2730 [14:28:59.997] Returning an empty list because completion was requested in an invalid position.
+Info 2731 [14:28:59.998] getCompletionData: Get current token: 0.012623999267816544
+Info 2732 [14:28:59.998] getCompletionData: Is inside comment: 0.002705000340938568
+Info 2733 [14:28:59.998] getCompletionData: Get previous token: 0.027761999517679214
+Info 2734 [14:28:59.998] getCompletionsAtPosition: isCompletionListBlocker: 0.0031759999692440033
+Info 2735 [14:28:59.998] Returning an empty list because completion was requested in an invalid position.
+Info 2736 [14:29:00.113] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2737 [14:29:00.129] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 544 structureChanged: false structureIsReused:: Completely Elapsed: 16.530420999974012ms
+Info 2738 [14:29:00.129] Different program with same set of files
+Info 2739 [14:29:00.223] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2740 [14:29:00.240] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 545 structureChanged: false structureIsReused:: Completely Elapsed: 17.907015001401305ms
+Info 2741 [14:29:00.241] Different program with same set of files
+Info 2742 [14:29:00.388] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2743 [14:29:00.406] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 546 structureChanged: false structureIsReused:: Completely Elapsed: 18.06535300053656ms
+Info 2744 [14:29:00.406] Different program with same set of files
+Info 2745 [14:29:00.507] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2746 [14:29:00.528] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 547 structureChanged: false structureIsReused:: Completely Elapsed: 20.65484300069511ms
+Info 2747 [14:29:00.528] Different program with same set of files
+Info 2748 [14:29:00.733] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2749 [14:29:00.752] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 548 structureChanged: false structureIsReused:: Completely Elapsed: 18.230092998594046ms
+Info 2750 [14:29:00.752] Different program with same set of files
+Info 2751 [14:29:00.922] getCompletionData: Get current token: 0.008817000314593315
+Info 2752 [14:29:00.922] getCompletionData: Is inside comment: 0.0028250012546777725
+Info 2753 [14:29:00.922] getCompletionData: Get previous token: 0.02851399965584278
+Info 2754 [14:29:00.922] getCompletionsAtPosition: isCompletionListBlocker: 0.00622200034558773
+Info 2755 [14:29:00.922] Returning an empty list because completion was requested in an invalid position.
+Info 2756 [14:29:00.923] getCompletionData: Get current token: 0.006122000515460968
+Info 2757 [14:29:00.923] getCompletionData: Is inside comment: 0.0017630010843276978
+Info 2758 [14:29:00.923] getCompletionData: Get previous token: 0.012813998386263847
+Info 2759 [14:29:00.923] getCompletionsAtPosition: isCompletionListBlocker: 0.0039969999343156815
+Info 2760 [14:29:00.923] Returning an empty list because completion was requested in an invalid position.
+Info 2761 [14:29:00.924] getCompletionData: Get current token: 0.006022000685334206
+Info 2762 [14:29:00.924] getCompletionData: Is inside comment: 0.0017530005425214767
+Info 2763 [14:29:00.924] getCompletionData: Get previous token: 0.013875998556613922
+Info 2764 [14:29:00.924] getCompletionsAtPosition: isCompletionListBlocker: 0.0025949999690055847
+Info 2765 [14:29:00.924] Returning an empty list because completion was requested in an invalid position.
+Info 2766 [14:29:00.924] getCompletionData: Get current token: 0.005620000883936882
+Info 2767 [14:29:00.924] getCompletionData: Is inside comment: 0.0014229994267225266
+Info 2768 [14:29:00.924] getCompletionData: Get previous token: 0.013314999639987946
+Info 2769 [14:29:00.924] getCompletionsAtPosition: isCompletionListBlocker: 0.002033999189734459
+Info 2770 [14:29:00.924] Returning an empty list because completion was requested in an invalid position.
+Info 2771 [14:29:00.967] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2772 [14:29:00.984] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 549 structureChanged: false structureIsReused:: Completely Elapsed: 16.197462998330593ms
+Info 2773 [14:29:00.984] Different program with same set of files
+Info 2774 [14:29:01.092] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2775 [14:29:01.109] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 550 structureChanged: false structureIsReused:: Completely Elapsed: 17.23187300004065ms
+Info 2776 [14:29:01.109] Different program with same set of files
+Info 2777 [14:29:01.272] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2778 [14:29:01.290] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 551 structureChanged: false structureIsReused:: Completely Elapsed: 18.485433999449015ms
+Info 2779 [14:29:01.291] Different program with same set of files
+Info 2780 [14:29:01.460] getCompletionData: Get current token: 0.00807499885559082
+Info 2781 [14:29:01.460] getCompletionData: Is inside comment: 0.0025040004402399063
+Info 2782 [14:29:01.460] getCompletionData: Get previous token: 0.02295299991965294
+Info 2783 [14:29:01.460] getCompletionsAtPosition: isCompletionListBlocker: 0.00492900051176548
+Info 2784 [14:29:01.460] Returning an empty list because completion was requested in an invalid position.
+Info 2785 [14:29:01.464] getCompletionData: Get current token: 0.00901699997484684
+Info 2786 [14:29:01.465] getCompletionData: Is inside comment: 0.002213999629020691
+Info 2787 [14:29:01.465] getCompletionData: Get previous token: 0.01820399984717369
+Info 2788 [14:29:01.465] getCompletionsAtPosition: isCompletionListBlocker: 0.0045290011912584305
+Info 2789 [14:29:01.465] Returning an empty list because completion was requested in an invalid position.
+Info 2790 [14:29:01.465] getCompletionData: Get current token: 0.00842600129544735
+Info 2791 [14:29:01.465] getCompletionData: Is inside comment: 0.0026250015944242477
+Info 2792 [14:29:01.465] getCompletionData: Get previous token: 0.017412999644875526
+Info 2793 [14:29:01.465] getCompletionsAtPosition: isCompletionListBlocker: 0.002685999497771263
+Info 2794 [14:29:01.465] Returning an empty list because completion was requested in an invalid position.
+Info 2795 [14:29:01.465] getCompletionData: Get current token: 0.014758000150322914
+Info 2796 [14:29:01.465] getCompletionData: Is inside comment: 0.002024000510573387
+Info 2797 [14:29:01.465] getCompletionData: Get previous token: 0.025848999619483948
+Info 2798 [14:29:01.465] getCompletionsAtPosition: isCompletionListBlocker: 0.0026450008153915405
+Info 2799 [14:29:01.465] Returning an empty list because completion was requested in an invalid position.
+Info 2800 [14:29:01.500] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2801 [14:29:01.519] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 552 structureChanged: false structureIsReused:: Completely Elapsed: 18.41908000037074ms
+Info 2802 [14:29:01.519] Different program with same set of files
+Info 2803 [14:29:01.678] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2804 [14:29:01.696] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 553 structureChanged: false structureIsReused:: Completely Elapsed: 17.939857000485063ms
+Info 2805 [14:29:01.696] Different program with same set of files
+Info 2806 [14:29:01.795] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2807 [14:29:01.811] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 554 structureChanged: false structureIsReused:: Completely Elapsed: 16.375788999721408ms
+Info 2808 [14:29:01.811] Different program with same set of files
+Info 2809 [14:29:02.381] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2810 [14:29:02.399] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 555 structureChanged: false structureIsReused:: Completely Elapsed: 17.98935000039637ms
+Info 2811 [14:29:02.400] Different program with same set of files
+Info 2812 [14:29:02.562] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2813 [14:29:02.580] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 556 structureChanged: false structureIsReused:: Completely Elapsed: 17.726124001666903ms
+Info 2814 [14:29:02.580] Different program with same set of files
+Info 2815 [14:29:02.697] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2816 [14:29:02.714] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 557 structureChanged: false structureIsReused:: Completely Elapsed: 17.492674000561237ms
+Info 2817 [14:29:02.714] Different program with same set of files
+Info 2818 [14:29:02.784] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2819 [14:29:02.800] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 558 structureChanged: false structureIsReused:: Completely Elapsed: 15.92951000109315ms
+Info 2820 [14:29:02.800] Different program with same set of files
+Info 2821 [14:29:02.907] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2822 [14:29:02.925] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 559 structureChanged: false structureIsReused:: Completely Elapsed: 17.786628000438213ms
+Info 2823 [14:29:02.925] Different program with same set of files
+Info 2824 [14:29:03.095] getCompletionData: Get current token: 0.007093999534845352
+Info 2825 [14:29:03.095] getCompletionData: Is inside comment: 0.0024850014597177505
+Info 2826 [14:29:03.095] getCompletionData: Get previous token: 0.02756199985742569
+Info 2827 [14:29:03.095] getCompletionsAtPosition: isCompletionListBlocker: 0.005620000883936882
+Info 2828 [14:29:03.098] getExportInfoMap: cache hit
+Info 2829 [14:29:03.123] collectAutoImports: resolved 0 module specifiers, plus 27 ambient and 575 from cache
+Info 2830 [14:29:03.123] collectAutoImports: response is complete
+Info 2831 [14:29:03.123] collectAutoImports: 25.169510999694467
+Info 2832 [14:29:03.123] getCompletionData: Semantic work: 27.61557000130415
+Info 2833 [14:29:03.128] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 5.468676000833511
+Info 2834 [14:29:05.176] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2835 [14:29:05.195] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 560 structureChanged: false structureIsReused:: Completely Elapsed: 18.09362700022757ms
+Info 2836 [14:29:05.195] Different program with same set of files
+Info 2837 [14:29:05.312] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2838 [14:29:05.331] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 561 structureChanged: false structureIsReused:: Completely Elapsed: 18.138902999460697ms
+Info 2839 [14:29:05.331] Different program with same set of files
+Info 2840 [14:29:05.892] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2841 [14:29:05.910] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 562 structureChanged: false structureIsReused:: Completely Elapsed: 18.23602499999106ms
+Info 2842 [14:29:05.910] Different program with same set of files
+Info 2843 [14:29:06.042] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2844 [14:29:06.060] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 563 structureChanged: false structureIsReused:: Completely Elapsed: 18.10019899904728ms
+Info 2845 [14:29:06.060] Different program with same set of files
+Info 2846 [14:29:06.148] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2847 [14:29:06.166] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 564 structureChanged: false structureIsReused:: Completely Elapsed: 18.57692699879408ms
+Info 2848 [14:29:06.166] Different program with same set of files
+Info 2849 [14:29:06.280] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2850 [14:29:06.298] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 565 structureChanged: false structureIsReused:: Completely Elapsed: 18.25780599936843ms
+Info 2851 [14:29:06.298] Different program with same set of files
+Info 2852 [14:29:06.416] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2853 [14:29:06.434] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 566 structureChanged: false structureIsReused:: Completely Elapsed: 18.215205000713468ms
+Info 2854 [14:29:06.434] Different program with same set of files
+Info 2855 [14:29:06.583] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2856 [14:29:06.600] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 567 structureChanged: false structureIsReused:: Completely Elapsed: 17.79270900040865ms
+Info 2857 [14:29:06.600] Different program with same set of files
+Info 2858 [14:29:06.732] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2859 [14:29:06.751] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 568 structureChanged: false structureIsReused:: Completely Elapsed: 18.184969000518322ms
+Info 2860 [14:29:06.751] Different program with same set of files
+Info 2861 [14:29:06.751] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2862 [14:29:06.768] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 569 structureChanged: false structureIsReused:: Completely Elapsed: 17.545563999563456ms
+Info 2863 [14:29:06.769] Different program with same set of files
+Info 2864 [14:29:06.934] getCompletionData: Get current token: 0.01455800049006939
+Info 2865 [14:29:06.934] getCompletionData: Is inside comment: 0.004016999155282974
+Info 2866 [14:29:06.934] getCompletionData: Get previous token: 0.025567999109625816
+Info 2867 [14:29:06.934] getCompletionsAtPosition: isCompletionListBlocker: 0.0048790015280246735
+Info 2868 [14:29:06.934] Returning an empty list because completion was requested in an invalid position.
+Info 2869 [14:29:07.281] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2870 [14:29:07.300] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 570 structureChanged: false structureIsReused:: Completely Elapsed: 18.613445999100804ms
+Info 2871 [14:29:07.300] Different program with same set of files
+Info 2872 [14:29:07.300] getCompletionData: Get current token: 0.007334001362323761
+Info 2873 [14:29:07.300] getCompletionData: Is inside comment: 0.0022539999336004257
+Info 2874 [14:29:07.300] getCompletionData: Get previous token: 0.02672000043094158
+Info 2875 [14:29:07.300] getCompletionsAtPosition: isCompletionListBlocker: 0.020840000361204147
+Info 2876 [14:29:07.300] Returning an empty list because completion was requested in an invalid position.
+Info 2877 [14:29:07.318] getCompletionData: Get current token: 0.007092999294400215
+Info 2878 [14:29:07.318] getCompletionData: Is inside comment: 0.002224000170826912
+Info 2879 [14:29:07.318] getCompletionData: Get previous token: 0.017572999000549316
+Info 2880 [14:29:07.318] getCompletionsAtPosition: isCompletionListBlocker: 0.01607999950647354
+Info 2881 [14:29:07.318] Returning an empty list because completion was requested in an invalid position.
+Info 2882 [14:29:07.321] getCompletionData: Get current token: 0.005760999396443367
+Info 2883 [14:29:07.321] getCompletionData: Is inside comment: 0.0014929994940757751
+Info 2884 [14:29:07.321] getCompletionData: Get previous token: 0.01658100076019764
+Info 2885 [14:29:07.321] getCompletionsAtPosition: isCompletionListBlocker: 0.009358000010251999
+Info 2886 [14:29:07.321] Returning an empty list because completion was requested in an invalid position.
+Info 2887 [14:29:07.322] getCompletionData: Get current token: 0.005350001156330109
+Info 2888 [14:29:07.322] getCompletionData: Is inside comment: 0.00118199922144413
+Info 2889 [14:29:07.322] getCompletionData: Get previous token: 0.011851999908685684
+Info 2890 [14:29:07.322] getCompletionsAtPosition: isCompletionListBlocker: 0.005921000614762306
+Info 2891 [14:29:07.322] Returning an empty list because completion was requested in an invalid position.
+Info 2892 [14:29:07.758] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2893 [14:29:07.776] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 571 structureChanged: false structureIsReused:: Completely Elapsed: 17.674436999484897ms
+Info 2894 [14:29:07.776] Different program with same set of files
+Info 2895 [14:29:07.866] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2896 [14:29:07.883] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 572 structureChanged: false structureIsReused:: Completely Elapsed: 16.8525779992342ms
+Info 2897 [14:29:07.883] Different program with same set of files
+Info 2898 [14:29:07.990] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2899 [14:29:08.007] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 573 structureChanged: false structureIsReused:: Completely Elapsed: 17.287607999518514ms
+Info 2900 [14:29:08.007] Different program with same set of files
+Info 2901 [14:29:08.095] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2902 [14:29:08.120] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 574 structureChanged: false structureIsReused:: Completely Elapsed: 24.946630999445915ms
+Info 2903 [14:29:08.120] Different program with same set of files
+Info 2904 [14:29:08.221] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2905 [14:29:08.239] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 575 structureChanged: false structureIsReused:: Completely Elapsed: 17.67875500023365ms
+Info 2906 [14:29:08.239] Different program with same set of files
+Info 2907 [14:29:09.718] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2908 [14:29:09.737] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 576 structureChanged: false structureIsReused:: Completely Elapsed: 19.239767000079155ms
+Info 2909 [14:29:09.737] Different program with same set of files
+Info 2910 [14:29:09.794] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2911 [14:29:09.811] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 577 structureChanged: false structureIsReused:: Completely Elapsed: 17.293159000575542ms
+Info 2912 [14:29:09.811] Different program with same set of files
+Info 2913 [14:29:09.980] getCompletionData: Get current token: 0.007174000144004822
+Info 2914 [14:29:09.980] getCompletionData: Is inside comment: 0.0024540014564990997
+Info 2915 [14:29:09.980] getCompletionData: Get previous token: 0.01592000015079975
+Info 2916 [14:29:09.980] getCompletionsAtPosition: isCompletionListBlocker: 0.005339998751878738
+Info 2917 [14:29:09.980] Returning an empty list because completion was requested in an invalid position.
+Info 2918 [14:29:09.982] getCompletionData: Get current token: 0.006451999768614769
+Info 2919 [14:29:09.982] getCompletionData: Is inside comment: 0.0019039995968341827
+Info 2920 [14:29:09.982] getCompletionData: Get previous token: 0.01308399997651577
+Info 2921 [14:29:09.982] getCompletionsAtPosition: isCompletionListBlocker: 0.0031659994274377823
+Info 2922 [14:29:09.982] Returning an empty list because completion was requested in an invalid position.
+Info 2923 [14:29:09.982] getCompletionData: Get current token: 0.0058920010924339294
+Info 2924 [14:29:09.982] getCompletionData: Is inside comment: 0.0014629997313022614
+Info 2925 [14:29:09.982] getCompletionData: Get previous token: 0.012042999267578125
+Info 2926 [14:29:09.982] getCompletionsAtPosition: isCompletionListBlocker: 0.001883000135421753
+Info 2927 [14:29:09.982] Returning an empty list because completion was requested in an invalid position.
+Info 2928 [14:29:09.982] getCompletionData: Get current token: 0.005650000646710396
+Info 2929 [14:29:09.982] getCompletionData: Is inside comment: 0.0011129993945360184
+Info 2930 [14:29:09.982] getCompletionData: Get previous token: 0.010950999334454536
+Info 2931 [14:29:09.982] getCompletionsAtPosition: isCompletionListBlocker: 0.0018029995262622833
+Info 2932 [14:29:09.982] Returning an empty list because completion was requested in an invalid position.
+Info 2933 [14:29:10.449] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2934 [14:29:10.468] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 578 structureChanged: false structureIsReused:: Completely Elapsed: 18.624708000570536ms
+Info 2935 [14:29:10.468] Different program with same set of files
+Info 2936 [14:29:10.641] getCompletionData: Get current token: 0.0077139995992183685
+Info 2937 [14:29:10.641] getCompletionData: Is inside comment: 0.002194000408053398
+Info 2938 [14:29:10.641] getCompletionData: Get previous token: 0.024806998670101166
+Info 2939 [14:29:10.641] getCompletionsAtPosition: isCompletionListBlocker: 0.01788400113582611
+Info 2940 [14:29:10.641] Returning an empty list because completion was requested in an invalid position.
+Info 2941 [14:29:10.642] getCompletionData: Get current token: 0.005961000919342041
+Info 2942 [14:29:10.643] getCompletionData: Is inside comment: 0.0014929994940757751
+Info 2943 [14:29:10.643] getCompletionData: Get previous token: 0.014076000079512596
+Info 2944 [14:29:10.643] getCompletionsAtPosition: isCompletionListBlocker: 0.010870000347495079
+Info 2945 [14:29:10.643] Returning an empty list because completion was requested in an invalid position.
+Info 2946 [14:29:10.643] getCompletionData: Get current token: 0.005700001493096352
+Info 2947 [14:29:10.643] getCompletionData: Is inside comment: 0.0011720005422830582
+Info 2948 [14:29:10.643] getCompletionData: Get previous token: 0.012202998623251915
+Info 2949 [14:29:10.643] getCompletionsAtPosition: isCompletionListBlocker: 0.007344000041484833
+Info 2950 [14:29:10.643] Returning an empty list because completion was requested in an invalid position.
+Info 2951 [14:29:10.643] getCompletionData: Get current token: 0.005981000140309334
+Info 2952 [14:29:10.643] getCompletionData: Is inside comment: 0.0012820009142160416
+Info 2953 [14:29:10.643] getCompletionData: Get previous token: 0.013314999639987946
+Info 2954 [14:29:10.643] getCompletionsAtPosition: isCompletionListBlocker: 0.006402000784873962
+Info 2955 [14:29:10.643] Returning an empty list because completion was requested in an invalid position.
+Info 2956 [14:29:10.870] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2957 [14:29:10.888] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 579 structureChanged: false structureIsReused:: Completely Elapsed: 17.893881000578403ms
+Info 2958 [14:29:10.888] Different program with same set of files
+Info 2959 [14:29:11.385] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2960 [14:29:11.403] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 580 structureChanged: false structureIsReused:: Completely Elapsed: 18.28219199925661ms
+Info 2961 [14:29:11.403] Different program with same set of files
+Info 2962 [14:29:12.585] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2963 [14:29:12.604] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 581 structureChanged: false structureIsReused:: Completely Elapsed: 18.579492000862956ms
+Info 2964 [14:29:12.604] Different program with same set of files
+Info 2965 [14:29:12.701] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2966 [14:29:12.719] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 582 structureChanged: false structureIsReused:: Completely Elapsed: 17.772991999983788ms
+Info 2967 [14:29:12.719] Different program with same set of files
+Info 2968 [14:29:12.957] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2969 [14:29:12.974] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 583 structureChanged: false structureIsReused:: Completely Elapsed: 17.146672999486327ms
+Info 2970 [14:29:12.974] Different program with same set of files
+Info 2971 [14:29:13.013] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2972 [14:29:13.029] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 584 structureChanged: false structureIsReused:: Completely Elapsed: 16.100430000573397ms
+Info 2973 [14:29:13.029] Different program with same set of files
+Info 2974 [14:29:13.088] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2975 [14:29:13.105] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 585 structureChanged: false structureIsReused:: Completely Elapsed: 16.469936000183225ms
+Info 2976 [14:29:13.105] Different program with same set of files
+Info 2977 [14:29:13.208] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2978 [14:29:13.224] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 586 structureChanged: false structureIsReused:: Completely Elapsed: 16.280588999390602ms
+Info 2979 [14:29:13.224] Different program with same set of files
+Info 2980 [14:29:13.283] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2981 [14:29:13.299] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 587 structureChanged: false structureIsReused:: Completely Elapsed: 16.526242999359965ms
+Info 2982 [14:29:13.299] Different program with same set of files
+Info 2983 [14:29:13.767] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2984 [14:29:13.786] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 588 structureChanged: false structureIsReused:: Completely Elapsed: 18.679622000083327ms
+Info 2985 [14:29:13.786] Different program with same set of files
+Info 2986 [14:29:13.902] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2987 [14:29:13.921] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 589 structureChanged: false structureIsReused:: Completely Elapsed: 18.42977000027895ms
+Info 2988 [14:29:13.921] Different program with same set of files
+Info 2989 [14:29:14.020] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2990 [14:29:14.038] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 590 structureChanged: false structureIsReused:: Completely Elapsed: 18.253607999533415ms
+Info 2991 [14:29:14.038] Different program with same set of files
+Info 2992 [14:29:14.260] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2993 [14:29:14.279] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 591 structureChanged: false structureIsReused:: Completely Elapsed: 18.548011999577284ms
+Info 2994 [14:29:14.279] Different program with same set of files
+Info 2995 [14:29:14.423] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2996 [14:29:14.440] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 592 structureChanged: false structureIsReused:: Completely Elapsed: 16.762287998571992ms
+Info 2997 [14:29:14.440] Different program with same set of files
+Info 2998 [14:29:14.501] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 2999 [14:29:14.517] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 593 structureChanged: false structureIsReused:: Completely Elapsed: 15.820473000407219ms
+Info 3000 [14:29:14.517] Different program with same set of files
+Info 3001 [14:29:14.562] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3002 [14:29:14.578] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 594 structureChanged: false structureIsReused:: Completely Elapsed: 16.095640998333693ms
+Info 3003 [14:29:14.578] Different program with same set of files
+Info 3004 [14:29:14.697] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3005 [14:29:14.715] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 595 structureChanged: false structureIsReused:: Completely Elapsed: 18.572969999164343ms
+Info 3006 [14:29:14.715] Different program with same set of files
+Info 3007 [14:29:14.847] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3008 [14:29:14.867] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 596 structureChanged: false structureIsReused:: Completely Elapsed: 19.792137000709772ms
+Info 3009 [14:29:14.867] Different program with same set of files
+Info 3010 [14:29:14.981] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3011 [14:29:15.003] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 597 structureChanged: false structureIsReused:: Completely Elapsed: 21.730970999225974ms
+Info 3012 [14:29:15.003] Different program with same set of files
+Info 3013 [14:29:15.102] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3014 [14:29:15.121] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 598 structureChanged: false structureIsReused:: Completely Elapsed: 19.512940999120474ms
+Info 3015 [14:29:15.121] Different program with same set of files
+Info 3016 [14:29:15.551] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3017 [14:29:15.566] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 599 structureChanged: false structureIsReused:: Completely Elapsed: 14.901000000536442ms
+Info 3018 [14:29:15.566] Different program with same set of files
+Info 3019 [14:29:15.702] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3020 [14:29:15.716] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 600 structureChanged: false structureIsReused:: Completely Elapsed: 14.440012000501156ms
+Info 3021 [14:29:15.716] Different program with same set of files
+Info 3022 [14:29:15.777] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3023 [14:29:15.792] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 601 structureChanged: false structureIsReused:: Completely Elapsed: 15.301617000252008ms
+Info 3024 [14:29:15.793] Different program with same set of files
+Info 3025 [14:29:15.818] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3026 [14:29:15.833] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 602 structureChanged: false structureIsReused:: Completely Elapsed: 15.635625999420881ms
+Info 3027 [14:29:15.833] Different program with same set of files
+Info 3028 [14:29:15.927] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3029 [14:29:15.942] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 603 structureChanged: false structureIsReused:: Completely Elapsed: 14.389986999332905ms
+Info 3030 [14:29:15.942] Different program with same set of files
+Info 3031 [14:29:17.787] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3032 [14:29:17.801] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 604 structureChanged: false structureIsReused:: Completely Elapsed: 14.67628699913621ms
+Info 3033 [14:29:17.801] Different program with same set of files
+Info 3034 [14:29:17.938] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3035 [14:29:17.952] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 605 structureChanged: false structureIsReused:: Completely Elapsed: 14.386520000174642ms
+Info 3036 [14:29:17.952] Different program with same set of files
+Info 3037 [14:29:18.073] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3038 [14:29:18.087] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 606 structureChanged: false structureIsReused:: Completely Elapsed: 14.485026998445392ms
+Info 3039 [14:29:18.087] Different program with same set of files
+Info 3040 [14:29:18.223] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3041 [14:29:18.238] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 607 structureChanged: false structureIsReused:: Completely Elapsed: 15.061713000759482ms
+Info 3042 [14:29:18.238] Different program with same set of files
+Info 3043 [14:29:18.328] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3044 [14:29:18.342] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 608 structureChanged: false structureIsReused:: Completely Elapsed: 14.226588999852538ms
+Info 3045 [14:29:18.342] Different program with same set of files
+Info 3046 [14:29:18.669] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3047 [14:29:18.684] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 609 structureChanged: false structureIsReused:: Completely Elapsed: 15.04177499935031ms
+Info 3048 [14:29:18.684] Different program with same set of files
+Info 3049 [14:29:18.762] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3050 [14:29:18.776] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 610 structureChanged: false structureIsReused:: Completely Elapsed: 14.424561999738216ms
+Info 3051 [14:29:18.776] Different program with same set of files
+Info 3052 [14:29:18.863] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3053 [14:29:18.877] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 611 structureChanged: false structureIsReused:: Completely Elapsed: 14.56721100024879ms
+Info 3054 [14:29:18.877] Different program with same set of files
+Info 3055 [14:29:19.121] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3056 [14:29:19.137] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 612 structureChanged: false structureIsReused:: Completely Elapsed: 16.35008000023663ms
+Info 3057 [14:29:19.137] Different program with same set of files
+Info 3058 [14:29:19.241] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3059 [14:29:19.256] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 613 structureChanged: false structureIsReused:: Completely Elapsed: 14.938339998945594ms
+Info 3060 [14:29:19.256] Different program with same set of files
+Info 3061 [14:29:19.363] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3062 [14:29:19.378] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 614 structureChanged: false structureIsReused:: Completely Elapsed: 14.551982000470161ms
+Info 3063 [14:29:19.378] Different program with same set of files
+Info 3064 [14:29:20.648] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3065 [14:29:20.665] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 615 structureChanged: false structureIsReused:: Completely Elapsed: 16.7572579998523ms
+Info 3066 [14:29:20.665] Different program with same set of files
+Info 3067 [14:29:20.891] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3068 [14:29:20.908] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 616 structureChanged: false structureIsReused:: Completely Elapsed: 17.009774999693036ms
+Info 3069 [14:29:20.909] Different program with same set of files
+Info 3070 [14:29:21.008] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3071 [14:29:21.026] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 617 structureChanged: false structureIsReused:: Completely Elapsed: 18.061164999380708ms
+Info 3072 [14:29:21.026] Different program with same set of files
+Info 3073 [14:29:21.596] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3074 [14:29:21.617] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 618 structureChanged: false structureIsReused:: Completely Elapsed: 20.90445400029421ms
+Info 3075 [14:29:21.617] Different program with same set of files
+Info 3076 [14:29:21.713] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3077 [14:29:21.729] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 619 structureChanged: false structureIsReused:: Completely Elapsed: 16.43274600058794ms
+Info 3078 [14:29:21.729] Different program with same set of files
+Info 3079 [14:29:21.837] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3080 [14:29:21.853] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 620 structureChanged: false structureIsReused:: Completely Elapsed: 16.516064001247287ms
+Info 3081 [14:29:21.853] Different program with same set of files
+Info 3082 [14:29:21.986] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3083 [14:29:22.004] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 621 structureChanged: false structureIsReused:: Completely Elapsed: 18.10172099992633ms
+Info 3084 [14:29:22.004] Different program with same set of files
+Info 3085 [14:29:22.061] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3086 [14:29:22.078] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 622 structureChanged: false structureIsReused:: Completely Elapsed: 17.64365000091493ms
+Info 3087 [14:29:22.078] Different program with same set of files
+Info 3088 [14:29:22.166] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3089 [14:29:22.182] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 623 structureChanged: false structureIsReused:: Completely Elapsed: 16.29321400076151ms
+Info 3090 [14:29:22.182] Different program with same set of files
+Info 3091 [14:29:22.241] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3092 [14:29:22.258] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 624 structureChanged: false structureIsReused:: Completely Elapsed: 17.334505999460816ms
+Info 3093 [14:29:22.258] Different program with same set of files
+Info 3094 [14:29:22.405] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3095 [14:29:22.424] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 625 structureChanged: false structureIsReused:: Completely Elapsed: 18.38982400111854ms
+Info 3096 [14:29:22.424] Different program with same set of files
+Info 3097 [14:29:31.318] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3098 [14:29:31.335] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 626 structureChanged: false structureIsReused:: Completely Elapsed: 16.910097001120448ms
+Info 3099 [14:29:31.335] Different program with same set of files
+Info 3100 [14:31:53.743] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3101 [14:31:53.778] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 627 structureChanged: false structureIsReused:: Completely Elapsed: 34.92852200008929ms
+Info 3102 [14:31:53.778] Different program with same set of files
+Info 3103 [14:31:57.737] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3104 [14:31:57.767] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 628 structureChanged: false structureIsReused:: Completely Elapsed: 30.261889001354575ms
+Info 3105 [14:31:57.767] Different program with same set of files
+Info 3106 [14:31:57.838] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3107 [14:31:57.858] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 629 structureChanged: false structureIsReused:: Completely Elapsed: 19.179454000666738ms
+Info 3108 [14:31:57.858] Different program with same set of files
+Info 3109 [14:32:00.049] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3110 [14:32:00.074] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 630 structureChanged: false structureIsReused:: Completely Elapsed: 25.43218700028956ms
+Info 3111 [14:32:00.074] Different program with same set of files
+Info 3112 [14:32:01.608] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3113 [14:32:01.622] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 631 structureChanged: false structureIsReused:: Completely Elapsed: 14.66245200112462ms
+Info 3114 [14:32:01.622] Different program with same set of files
+Info 3115 [14:32:01.968] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3116 [14:32:01.985] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 632 structureChanged: false structureIsReused:: Completely Elapsed: 16.892072999849916ms
+Info 3117 [14:32:01.985] Different program with same set of files
+Info 3118 [14:32:03.213] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3119 [14:32:03.228] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 633 structureChanged: false structureIsReused:: Completely Elapsed: 15.517462998628616ms
+Info 3120 [14:32:03.228] Different program with same set of files
+Info 3121 [14:32:06.618] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3122 [14:32:06.637] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 634 structureChanged: false structureIsReused:: Completely Elapsed: 18.906268000602722ms
+Info 3123 [14:32:06.637] Different program with same set of files
+Info 3124 [14:32:07.936] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3125 [14:32:07.955] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 635 structureChanged: false structureIsReused:: Completely Elapsed: 18.599189000204206ms
+Info 3126 [14:32:07.955] Different program with same set of files
+Info 3127 [14:32:08.126] getCompletionData: Get current token: 0.01711300015449524
+Info 3128 [14:32:08.126] getCompletionData: Is inside comment: 0.0034560002386569977
+Info 3129 [14:32:08.126] getCompletionData: Get previous token: 0.03002599999308586
+Info 3130 [14:32:08.126] getCompletionsAtPosition: isCompletionListBlocker: 0.00535999983549118
+Info 3131 [14:32:08.126] Returning an empty list because completion was requested in an invalid position.
+Info 3132 [14:32:08.144] getCompletionData: Get current token: 0.004819000139832497
+Info 3133 [14:32:08.144] getCompletionData: Is inside comment: 0.0015830006450414658
+Info 3134 [14:32:08.144] getCompletionData: Get previous token: 0.01429699920117855
+Info 3135 [14:32:08.144] getCompletionsAtPosition: isCompletionListBlocker: 0.0038169994950294495
+Info 3136 [14:32:08.144] Returning an empty list because completion was requested in an invalid position.
+Info 3137 [14:32:08.145] getCompletionData: Get current token: 0.004228001460433006
+Info 3138 [14:32:08.145] getCompletionData: Is inside comment: 0.0012720003724098206
+Info 3139 [14:32:08.145] getCompletionData: Get previous token: 0.011862000450491905
+Info 3140 [14:32:08.145] getCompletionsAtPosition: isCompletionListBlocker: 0.0013919994235038757
+Info 3141 [14:32:08.145] Returning an empty list because completion was requested in an invalid position.
+Info 3142 [14:32:08.145] getCompletionData: Get current token: 0.00398700125515461
+Info 3143 [14:32:08.145] getCompletionData: Is inside comment: 0.0008819997310638428
+Info 3144 [14:32:08.145] getCompletionData: Get previous token: 0.011261999607086182
+Info 3145 [14:32:08.145] getCompletionsAtPosition: isCompletionListBlocker: 0.0013620015233755112
+Info 3146 [14:32:08.145] Returning an empty list because completion was requested in an invalid position.
+Info 3147 [14:32:08.180] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3148 [14:32:08.199] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 636 structureChanged: false structureIsReused:: Completely Elapsed: 18.527153998613358ms
+Info 3149 [14:32:08.199] Different program with same set of files
+Info 3150 [14:32:08.199] getCompletionData: Get current token: 0.008646000176668167
+Info 3151 [14:32:08.199] getCompletionData: Is inside comment: 0.002013999968767166
+Info 3152 [14:32:08.199] getCompletionData: Get previous token: 0.021290000528097153
+Info 3153 [14:32:08.199] getCompletionsAtPosition: isCompletionListBlocker: 0.004348998889327049
+Info 3154 [14:32:08.199] Returning an empty list because completion was requested in an invalid position.
+Info 3155 [14:32:08.205] getCompletionData: Get current token: 0.005429999902844429
+Info 3156 [14:32:08.205] getCompletionData: Is inside comment: 0.002355000004172325
+Info 3157 [14:32:08.205] getCompletionData: Get previous token: 0.016090000048279762
+Info 3158 [14:32:08.205] getCompletionsAtPosition: isCompletionListBlocker: 0.0022439993917942047
+Info 3159 [14:32:08.205] Returning an empty list because completion was requested in an invalid position.
+Info 3160 [14:32:08.205] getCompletionData: Get current token: 0.005089001730084419
+Info 3161 [14:32:08.205] getCompletionData: Is inside comment: 0.0011730007827281952
+Info 3162 [14:32:08.205] getCompletionData: Get previous token: 0.013465000316500664
+Info 3163 [14:32:08.205] getCompletionsAtPosition: isCompletionListBlocker: 0.0017229989171028137
+Info 3164 [14:32:08.205] Returning an empty list because completion was requested in an invalid position.
+Info 3165 [14:32:08.205] getCompletionData: Get current token: 0.004948999732732773
+Info 3166 [14:32:08.205] getCompletionData: Is inside comment: 0.0011730007827281952
+Info 3167 [14:32:08.205] getCompletionData: Get previous token: 0.013203999027609825
+Info 3168 [14:32:08.205] getCompletionsAtPosition: isCompletionListBlocker: 0.0016629993915557861
+Info 3169 [14:32:08.205] Returning an empty list because completion was requested in an invalid position.
+Info 3170 [14:32:08.261] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3171 [14:32:08.277] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 637 structureChanged: false structureIsReused:: Completely Elapsed: 16.108738001435995ms
+Info 3172 [14:32:08.277] Different program with same set of files
+Info 3173 [14:32:08.351] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3174 [14:32:08.365] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 638 structureChanged: false structureIsReused:: Completely Elapsed: 13.708835000172257ms
+Info 3175 [14:32:08.365] Different program with same set of files
+Info 3176 [14:32:08.505] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3177 [14:32:08.529] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 639 structureChanged: false structureIsReused:: Completely Elapsed: 23.67001700028777ms
+Info 3178 [14:32:08.529] Different program with same set of files
+Info 3179 [14:32:08.684] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3180 [14:32:08.707] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 640 structureChanged: false structureIsReused:: Completely Elapsed: 23.267606999725103ms
+Info 3181 [14:32:08.707] Different program with same set of files
+Info 3182 [14:32:08.790] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3183 [14:32:08.808] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 641 structureChanged: false structureIsReused:: Completely Elapsed: 17.62355099990964ms
+Info 3184 [14:32:08.808] Different program with same set of files
+Info 3185 [14:32:08.925] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3186 [14:32:08.944] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 642 structureChanged: false structureIsReused:: Completely Elapsed: 18.902512999251485ms
+Info 3187 [14:32:08.944] Different program with same set of files
+Info 3188 [14:32:09.114] getCompletionData: Get current token: 0.010779999196529388
+Info 3189 [14:32:09.114] getCompletionData: Is inside comment: 0.002694999799132347
+Info 3190 [14:32:09.114] getCompletionData: Get previous token: 0.023885000497102737
+Info 3191 [14:32:09.114] getCompletionsAtPosition: isCompletionListBlocker: 0.004478000104427338
+Info 3192 [14:32:09.114] Returning an empty list because completion was requested in an invalid position.
+Info 3193 [14:32:09.132] getCompletionData: Get current token: 0.00764399953186512
+Info 3194 [14:32:09.132] getCompletionData: Is inside comment: 0.0025050006806850433
+Info 3195 [14:32:09.132] getCompletionData: Get previous token: 0.021359998732805252
+Info 3196 [14:32:09.132] getCompletionsAtPosition: isCompletionListBlocker: 0.004789000377058983
+Info 3197 [14:32:09.132] Returning an empty list because completion was requested in an invalid position.
+Info 3198 [14:32:09.132] getCompletionData: Get current token: 0.006683001294732094
+Info 3199 [14:32:09.132] getCompletionData: Is inside comment: 0.0014720000326633453
+Info 3200 [14:32:09.132] getCompletionData: Get previous token: 0.015870001167058945
+Info 3201 [14:32:09.132] getCompletionsAtPosition: isCompletionListBlocker: 0.001873999834060669
+Info 3202 [14:32:09.132] Returning an empty list because completion was requested in an invalid position.
+Info 3203 [14:32:09.132] getCompletionData: Get current token: 0.004918999969959259
+Info 3204 [14:32:09.132] getCompletionData: Is inside comment: 0.00118199922144413
+Info 3205 [14:32:09.132] getCompletionData: Get previous token: 0.013935999944806099
+Info 3206 [14:32:09.132] getCompletionsAtPosition: isCompletionListBlocker: 0.001723000779747963
+Info 3207 [14:32:09.132] Returning an empty list because completion was requested in an invalid position.
+Info 3208 [14:32:09.180] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3209 [14:32:09.194] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 643 structureChanged: false structureIsReused:: Completely Elapsed: 14.101424999535084ms
+Info 3210 [14:32:09.194] Different program with same set of files
+Info 3211 [14:32:09.369] getCompletionData: Get current token: 0.006952999159693718
+Info 3212 [14:32:09.369] getCompletionData: Is inside comment: 0.0201679989695549
+Info 3213 [14:32:09.369] getCompletionData: Get previous token: 0.016380999237298965
+Info 3214 [14:32:09.370] getCompletionsAtPosition: isCompletionListBlocker: 0.22008400037884712
+Info 3215 [14:32:09.370] Returning an empty list because completion was requested in an invalid position.
+Info 3216 [14:32:09.388] getCompletionData: Get current token: 0.007783999666571617
+Info 3217 [14:32:09.388] getCompletionData: Is inside comment: 0.020968999713659286
+Info 3218 [14:32:09.388] getCompletionData: Get previous token: 0.01810400001704693
+Info 3219 [14:32:09.388] getCompletionsAtPosition: isCompletionListBlocker: 0.012313000857830048
+Info 3220 [14:32:09.388] Returning an empty list because completion was requested in an invalid position.
+Info 3221 [14:32:09.388] getCompletionData: Get current token: 0.0077149998396635056
+Info 3222 [14:32:09.388] getCompletionData: Is inside comment: 0.04161899909377098
+Info 3223 [14:32:09.388] getCompletionData: Get previous token: 0.020198000594973564
+Info 3224 [14:32:09.388] getCompletionsAtPosition: isCompletionListBlocker: 0.008686000481247902
+Info 3225 [14:32:09.388] Returning an empty list because completion was requested in an invalid position.
+Info 3226 [14:32:09.388] getCompletionData: Get current token: 0.0073639992624521255
+Info 3227 [14:32:09.388] getCompletionData: Is inside comment: 0.01912599988281727
+Info 3228 [14:32:09.388] getCompletionData: Get previous token: 0.017131999135017395
+Info 3229 [14:32:09.388] getCompletionsAtPosition: isCompletionListBlocker: 0.006873000413179398
+Info 3230 [14:32:09.388] Returning an empty list because completion was requested in an invalid position.
+Info 3231 [14:32:09.537] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3232 [14:32:09.553] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 644 structureChanged: false structureIsReused:: Completely Elapsed: 15.530708000063896ms
+Info 3233 [14:32:09.553] Different program with same set of files
+Info 3234 [14:32:10.095] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3235 [14:32:10.113] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 645 structureChanged: false structureIsReused:: Completely Elapsed: 17.727809000760317ms
+Info 3236 [14:32:10.113] Different program with same set of files
+Info 3237 [14:32:10.276] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3238 [14:32:10.294] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 646 structureChanged: false structureIsReused:: Completely Elapsed: 17.645743999630213ms
+Info 3239 [14:32:10.294] Different program with same set of files
+Info 3240 [14:32:10.294] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3241 [14:32:10.312] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 647 structureChanged: false structureIsReused:: Completely Elapsed: 18.037422001361847ms
+Info 3242 [14:32:10.312] Different program with same set of files
+Info 3243 [14:32:10.377] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3244 [14:32:10.392] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 648 structureChanged: false structureIsReused:: Completely Elapsed: 15.327933998778462ms
+Info 3245 [14:32:10.392] Different program with same set of files
+Info 3246 [14:32:10.504] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3247 [14:32:10.519] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 649 structureChanged: false structureIsReused:: Completely Elapsed: 15.12126599997282ms
+Info 3248 [14:32:10.519] Different program with same set of files
+Info 3249 [14:32:12.871] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3250 [14:32:12.886] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 650 structureChanged: false structureIsReused:: Completely Elapsed: 14.724247999489307ms
+Info 3251 [14:32:12.886] Different program with same set of files
+Info 3252 [14:32:13.059] getCompletionData: Get current token: 0.00926700048148632
+Info 3253 [14:32:13.059] getCompletionData: Is inside comment: 0.0022339988499879837
+Info 3254 [14:32:13.059] getCompletionData: Get previous token: 0.016541000455617905
+Info 3255 [14:32:13.060] getCompletionsAtPosition: isCompletionListBlocker: 0.0044989995658397675
+Info 3256 [14:32:13.060] Returning an empty list because completion was requested in an invalid position.
+Info 3257 [14:32:13.074] getCompletionData: Get current token: 0.004899999126791954
+Info 3258 [14:32:13.074] getCompletionData: Is inside comment: 0.0016029998660087585
+Info 3259 [14:32:13.074] getCompletionData: Get previous token: 0.01948699913918972
+Info 3260 [14:32:13.074] getCompletionsAtPosition: isCompletionListBlocker: 0.003607001155614853
+Info 3261 [14:32:13.074] Returning an empty list because completion was requested in an invalid position.
+Info 3262 [14:32:13.074] getCompletionData: Get current token: 0.00824500061571598
+Info 3263 [14:32:13.074] getCompletionData: Is inside comment: 0.0019229985773563385
+Info 3264 [14:32:13.074] getCompletionData: Get previous token: 0.025136999785900116
+Info 3265 [14:32:13.074] getCompletionsAtPosition: isCompletionListBlocker: 0.0018140003085136414
+Info 3266 [14:32:13.074] Returning an empty list because completion was requested in an invalid position.
+Info 3267 [14:32:13.074] getCompletionData: Get current token: 0.00408799946308136
+Info 3268 [14:32:13.074] getCompletionData: Is inside comment: 0.0010419990867376328
+Info 3269 [14:32:13.074] getCompletionData: Get previous token: 0.011059999465942383
+Info 3270 [14:32:13.074] getCompletionsAtPosition: isCompletionListBlocker: 0.0013229995965957642
+Info 3271 [14:32:13.074] Returning an empty list because completion was requested in an invalid position.
+Info 3272 [14:32:13.259] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3273 [14:32:13.273] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 651 structureChanged: false structureIsReused:: Completely Elapsed: 14.037905000150204ms
+Info 3274 [14:32:13.273] Different program with same set of files
+Info 3275 [14:32:13.351] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3276 [14:32:13.366] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 652 structureChanged: false structureIsReused:: Completely Elapsed: 14.162228999659419ms
+Info 3277 [14:32:13.366] Different program with same set of files
+Info 3278 [14:32:13.402] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3279 [14:32:13.416] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 653 structureChanged: false structureIsReused:: Completely Elapsed: 13.848688000813127ms
+Info 3280 [14:32:13.416] Different program with same set of files
+Info 3281 [14:32:13.595] getCompletionData: Get current token: 0.006132001057267189
+Info 3282 [14:32:13.595] getCompletionData: Is inside comment: 0.00220399908721447
+Info 3283 [14:32:13.595] getCompletionData: Get previous token: 0.038050999864935875
+Info 3284 [14:32:13.595] getCompletionsAtPosition: isCompletionListBlocker: 0.0037869997322559357
+Info 3285 [14:32:13.595] Returning an empty list because completion was requested in an invalid position.
+Info 3286 [14:32:13.597] getCompletionData: Get current token: 0.0092569999396801
+Info 3287 [14:32:13.597] getCompletionData: Is inside comment: 0.002535000443458557
+Info 3288 [14:32:13.597] getCompletionData: Get previous token: 0.02611900120973587
+Info 3289 [14:32:13.597] getCompletionsAtPosition: isCompletionListBlocker: 0.002384999766945839
+Info 3290 [14:32:13.597] Returning an empty list because completion was requested in an invalid position.
+Info 3291 [14:32:13.597] getCompletionData: Get current token: 0.004959000274538994
+Info 3292 [14:32:13.597] getCompletionData: Is inside comment: 0.0014420002698898315
+Info 3293 [14:32:13.597] getCompletionData: Get previous token: 0.013425000011920929
+Info 3294 [14:32:13.597] getCompletionsAtPosition: isCompletionListBlocker: 0.0017430000007152557
+Info 3295 [14:32:13.597] Returning an empty list because completion was requested in an invalid position.
+Info 3296 [14:32:13.597] getCompletionData: Get current token: 0.009006999433040619
+Info 3297 [14:32:13.597] getCompletionData: Is inside comment: 0.001522999256849289
+Info 3298 [14:32:13.597] getCompletionData: Get previous token: 0.013314999639987946
+Info 3299 [14:32:13.597] getCompletionsAtPosition: isCompletionListBlocker: 0.0016530007123947144
+Info 3300 [14:32:13.597] Returning an empty list because completion was requested in an invalid position.
+Info 3301 [14:32:13.630] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3302 [14:32:13.644] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 654 structureChanged: false structureIsReused:: Completely Elapsed: 13.988551000133157ms
+Info 3303 [14:32:13.644] Different program with same set of files
+Info 3304 [14:32:13.818] getCompletionData: Get current token: 0.004889000207185745
+Info 3305 [14:32:13.818] getCompletionData: Is inside comment: 0.0014329999685287476
+Info 3306 [14:32:13.818] getCompletionData: Get previous token: 0.012663999572396278
+Info 3307 [14:32:13.818] getCompletionsAtPosition: isCompletionListBlocker: 0.014798000454902649
+Info 3308 [14:32:13.818] Returning an empty list because completion was requested in an invalid position.
+Info 3309 [14:32:13.820] getCompletionData: Get current token: 0.009006999433040619
+Info 3310 [14:32:13.820] getCompletionData: Is inside comment: 0.0022539999336004257
+Info 3311 [14:32:13.820] getCompletionData: Get previous token: 0.02509699948132038
+Info 3312 [14:32:13.820] getCompletionsAtPosition: isCompletionListBlocker: 0.009517999365925789
+Info 3313 [14:32:13.820] Returning an empty list because completion was requested in an invalid position.
+Info 3314 [14:32:13.820] getCompletionData: Get current token: 0.008515998721122742
+Info 3315 [14:32:13.820] getCompletionData: Is inside comment: 0.0011320002377033234
+Info 3316 [14:32:13.820] getCompletionData: Get previous token: 0.01284400001168251
+Info 3317 [14:32:13.820] getCompletionsAtPosition: isCompletionListBlocker: 0.006171999499201775
+Info 3318 [14:32:13.820] Returning an empty list because completion was requested in an invalid position.
+Info 3319 [14:32:13.820] getCompletionData: Get current token: 0.008316000923514366
+Info 3320 [14:32:13.820] getCompletionData: Is inside comment: 0.0015629995614290237
+Info 3321 [14:32:13.820] getCompletionData: Get previous token: 0.01308399997651577
+Info 3322 [14:32:13.820] getCompletionsAtPosition: isCompletionListBlocker: 0.005921000614762306
+Info 3323 [14:32:13.820] Returning an empty list because completion was requested in an invalid position.
+Info 3324 [14:32:13.938] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3325 [14:32:13.953] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 655 structureChanged: false structureIsReused:: Completely Elapsed: 14.133856000378728ms
+Info 3326 [14:32:13.953] Different program with same set of files
+Info 3327 [14:32:14.281] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3328 [14:32:14.296] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 656 structureChanged: false structureIsReused:: Completely Elapsed: 14.220939999446273ms
+Info 3329 [14:32:14.296] Different program with same set of files
+Info 3330 [14:32:34.568] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3331 [14:32:34.589] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 657 structureChanged: false structureIsReused:: Completely Elapsed: 20.668118000030518ms
+Info 3332 [14:32:34.589] Different program with same set of files
+Info 3333 [14:45:06.133] FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3334 [14:45:06.134] Elapsed:: 0.4781110007315874ms FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3335 [14:45:06.385] Reloading configured project /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3336 [14:45:06.392] Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json : {
+ "rootNames": [
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/main.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/update_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/app.d.ts"
+ ],
+ "options": {
+  "moduleResolution": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2020.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "target": 7,
+  "importsNotUsedAsValues": 2,
+  "preserveValueImports": true,
+  "isolatedModules": true,
+  "resolveJsonModule": true,
+  "sourceMap": true,
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "forceConsistentCasingInFileNames": true,
+  "baseUrl": "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+  "allowJs": true,
+  "checkJs": true,
+  "paths": {
+   "$lib": [
+    "src/lib"
+   ],
+   "$lib/*": [
+    "src/lib/*"
+   ]
+  },
+  "rootDirs": [
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/types"
+  ],
+  "pathsBasePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit",
+  "maxNodeModuleJsDepth": 2,
+  "allowSyntheticDefaultImports": true,
+  "noEmit": true,
+  "configFilePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json"
+ }
+}
+Info 3337 [14:45:06.398] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3338 [14:45:06.399] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 658 structureChanged: false structureIsReused:: Completely Elapsed: 0.7315590009093285ms
+Info 3339 [14:45:08.634] Before ensureProjectForOpenFiles:
+Info 3340 [14:45:08.635] After ensureProjectForOpenFiles:
+Info 3341 [14:45:08.635] got projects updated in background, updating diagnostics for /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js
+Info 3342 [14:45:16.136] FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3343 [14:45:16.136] Elapsed:: 0.06523299962282181ms FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3344 [14:45:16.386] Reloading configured project /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3345 [14:45:16.388] Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json : {
+ "rootNames": [
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/main.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/update_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/app.d.ts"
+ ],
+ "options": {
+  "moduleResolution": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2020.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "target": 7,
+  "importsNotUsedAsValues": 2,
+  "preserveValueImports": true,
+  "isolatedModules": true,
+  "resolveJsonModule": true,
+  "sourceMap": true,
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "forceConsistentCasingInFileNames": true,
+  "baseUrl": "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+  "allowJs": true,
+  "checkJs": true,
+  "paths": {
+   "$lib": [
+    "src/lib"
+   ],
+   "$lib/*": [
+    "src/lib/*"
+   ]
+  },
+  "rootDirs": [
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/types"
+  ],
+  "pathsBasePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit",
+  "maxNodeModuleJsDepth": 2,
+  "allowSyntheticDefaultImports": true,
+  "noEmit": true,
+  "configFilePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json"
+ }
+}
+Info 3346 [14:45:16.392] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3347 [14:45:16.392] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 659 structureChanged: false structureIsReused:: Completely Elapsed: 0.6714949999004602ms
+Info 3348 [14:45:18.636] Before ensureProjectForOpenFiles:
+Info 3349 [14:45:18.637] After ensureProjectForOpenFiles:
+Info 3350 [14:45:18.637] got projects updated in background, updating diagnostics for /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js
+Info 3351 [14:47:04.155] FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3352 [14:47:04.155] Elapsed:: 0.06498400121927261ms FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3353 [14:47:04.405] Reloading configured project /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3354 [14:47:04.408] Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json : {
+ "rootNames": [
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/main.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/update_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/app.d.ts"
+ ],
+ "options": {
+  "moduleResolution": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2020.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "target": 7,
+  "importsNotUsedAsValues": 2,
+  "preserveValueImports": true,
+  "isolatedModules": true,
+  "resolveJsonModule": true,
+  "sourceMap": true,
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "forceConsistentCasingInFileNames": true,
+  "baseUrl": "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+  "allowJs": true,
+  "checkJs": true,
+  "paths": {
+   "$lib": [
+    "src/lib"
+   ],
+   "$lib/*": [
+    "src/lib/*"
+   ]
+  },
+  "rootDirs": [
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/types"
+  ],
+  "pathsBasePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit",
+  "maxNodeModuleJsDepth": 2,
+  "allowSyntheticDefaultImports": true,
+  "noEmit": true,
+  "configFilePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json"
+ }
+}
+Info 3355 [14:47:04.410] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3356 [14:47:04.411] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 660 structureChanged: false structureIsReused:: Completely Elapsed: 0.6435399986803532ms
+Info 3357 [14:47:06.655] Before ensureProjectForOpenFiles:
+Info 3358 [14:47:06.655] After ensureProjectForOpenFiles:
+Info 3359 [14:47:06.655] got projects updated in background, updating diagnostics for /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js
+Info 3360 [14:47:26.158] FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3361 [14:47:26.158] Elapsed:: 0.06061500124633312ms FileWatcher:: Triggered with /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 1:: WatchInfo: /home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/tsconfig.json 2000 undefined Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json WatchType: Extended config file
+Info 3362 [14:47:26.408] Reloading configured project /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3363 [14:47:26.411] Config: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json : {
+ "rootNames": [
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/main.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/update_photos.js",
+  "/home/kreimben/Documents/Repository/Kreimben.com/frontend/src/app.d.ts"
+ ],
+ "options": {
+  "moduleResolution": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2020.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "target": 7,
+  "importsNotUsedAsValues": 2,
+  "preserveValueImports": true,
+  "isolatedModules": true,
+  "resolveJsonModule": true,
+  "sourceMap": true,
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "forceConsistentCasingInFileNames": true,
+  "baseUrl": "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+  "allowJs": true,
+  "checkJs": true,
+  "paths": {
+   "$lib": [
+    "src/lib"
+   ],
+   "$lib/*": [
+    "src/lib/*"
+   ]
+  },
+  "rootDirs": [
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend",
+   "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit/types"
+  ],
+  "pathsBasePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/.svelte-kit",
+  "maxNodeModuleJsDepth": 2,
+  "allowSyntheticDefaultImports": true,
+  "noEmit": true,
+  "configFilePath": "/home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json"
+ }
+}
+Info 3364 [14:47:26.413] Starting updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json
+Info 3365 [14:47:26.414] Finishing updateGraphWorker: Project: /home/kreimben/Documents/Repository/Kreimben.com/frontend/jsconfig.json Version: 661 structureChanged: false structureIsReused:: Completely Elapsed: 1.0106549989432096ms
+Info 3366 [14:47:28.658] Before ensureProjectForOpenFiles:
+Info 3367 [14:47:28.658] After ensureProjectForOpenFiles:
+Info 3368 [14:47:28.658] got projects updated in background, updating diagnostics for /home/kreimben/Documents/Repository/Kreimben.com/frontend/src/routes/api/get_photos.js
