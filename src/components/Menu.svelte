@@ -32,13 +32,15 @@
  .main_menu {
      flex: auto;
      text-align: center;
+     margin-top: 16px;
  }
 
  .main_menu_element {
-     color: green;
-     font-size: 1.4em;
-
      margin-left: 2%;
      margin-right: 2%;
+
+     font-weight: bold;
+     font-size: 1.4em;
+     color: black;
  }
 </style>
