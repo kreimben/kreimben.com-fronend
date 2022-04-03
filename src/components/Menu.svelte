@@ -33,6 +33,7 @@
      flex: auto;
      text-align: center;
      margin-top: 16px;
+     background-color: rgba(255, 255, 255, 0.5);
  }
 
  .main_menu_element {

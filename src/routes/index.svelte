@@ -66,6 +66,7 @@
      font-size: 3rem;
      text-align: center;
      margin-top: 20%;
+     background-color: rgba(255, 255, 255, 0.5);
  }
 
  .nothing_subscribe {
