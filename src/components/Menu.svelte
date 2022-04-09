@@ -29,19 +29,19 @@
 </nav>
 
 <style>
- .main_menu {
-     flex: auto;
-     text-align: center;
-     margin-top: 16px;
-     background-color: rgba(255, 255, 255, 0.5);
- }
+    .main_menu {
+        flex: auto;
+        text-align: center;
+        margin-top: 16px;
+        background-color: rgba(255, 255, 255, 0.5);
+    }
 
- .main_menu_element {
-     margin-left: 2%;
-     margin-right: 2%;
+    .main_menu_element {
+        margin-left: 2%;
+        margin-right: 2%;
 
-     font-weight: bold;
-     font-size: 1.4em;
-     color: black;
- }
+        font-weight: bold;
+        font-size: 1.4em;
+        color: black;
+    }
 </style>
