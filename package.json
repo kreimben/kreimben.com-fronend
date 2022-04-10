@@ -20,11 +20,11 @@
     "eslint-plugin-svelte3": "^3.2.1",
     "prettier": "^2.5.1",
     "prettier-plugin-svelte": "^2.5.0",
-    "svelte": "^3.44.0"
+    "svelte": "^3.44.0",
+    "svelte-carousel": "^1.0.17-rc4"
   },
   "type": "module",
   "dependencies": {
-    "svelte-carousel": "^1.0.17-rc4",
     "svelte-image-gallery": "^1.5.0"
   }
 }
